@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717548950864",
+    "firebase_url": "https://path-housing-needs.firebaseio.com",
+    "project_id": "path-housing-needs",
+    "storage_bucket": "path-housing-needs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717548950864:android:f80a98282655fa650cc855",
+        "android_client_info": {
+          "package_name": "com.example.pathhousingneeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717548950864-fbjsp383kstcad2r3pn3r7snsp73g3bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pathhousingneeds",
+            "certificate_hash": "1e20d2e64b7baf8be822b48a706a9d896f1576ee"
+          }
+        },
+        {
+          "client_id": "717548950864-icpeas9rcvabb12bsk2qqjk1t6rebc3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJ2tJLHIJmPjhrkyPyXofPwcobN0y0dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717548950864-icpeas9rcvabb12bsk2qqjk1t6rebc3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
